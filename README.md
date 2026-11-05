@@ -1,1 +1,1 @@
-LINK:https://laurarosechan.github.io/TaxDashboardApp/index.html/
+LINK:https://laurarosechan.github.io/TaxDashboardApp/index.html
